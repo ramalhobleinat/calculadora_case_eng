@@ -5,11 +5,7 @@ com foco em correção de overflow e fluxo sem loop infinito.
 
 Funcionalidades implementadas:
 
-Processamento completo da fila.
-Divisão com tratamento de erro.
-Precisão e segurança numérica.
-Impressão dinâmica da fila.
-Pilha de resultados.
+Processamento completo da fila, divisão com tratamento de erro, precisão e segurança numérica, impressão dinâmica da fila e pilha de resultados.
 
 Saída real do programa:
 
