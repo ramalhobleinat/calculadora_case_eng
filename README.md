@@ -13,6 +13,7 @@ Pilha de resultados.
 
 Saída real do programa:
 
+```
 Operações que serão realizadas:
 14 - 8
 5 * 6
@@ -51,6 +52,6 @@ Pilha de resultados:
 2147483649
 30
 6
-
+```
 ---
 Desenvolvido como case técnico para processo seletivo para posição de Engenharia de Software JR.
